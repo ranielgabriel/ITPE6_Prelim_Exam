@@ -1,5 +1,1 @@
-This is your prelim laboratory exam.
-
-Use everything you learned (if there is) in solving this repository.
-
-Goodluck!
+Hi! My name is Athens, a 21 year old 4th year student studying in WU-P.
