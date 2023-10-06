@@ -1,5 +1,10 @@
-This is your prelim laboratory exam.
+### Name: Mia Janelle Lim Toh
 
-Use everything you learned (if there is) in solving this repository.
+----
 
-Goodluck!
+### Age: 21
+
+----
+
+### Description: An ailurophile with no cats, a bookworm in a reading slump
+
