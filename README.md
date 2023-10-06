@@ -1,5 +1,3 @@
-This is your prelim laboratory exam.
-
-Use everything you learned (if there is) in solving this repository.
-
-Goodluck!
+John Daniel R. Mendiola
+Nickname: JD
+21 years old from Avida Settings Santa Arcadia, Cabanatuan City. Nueva Ecija, Philippines.
