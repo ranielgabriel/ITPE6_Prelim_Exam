@@ -1,5 +1,3 @@
-This is your prelim laboratory exam.
+Jomel A. Cauyao
 
-Use everything you learned (if there is) in solving this repository.
-
-Goodluck!
+Age:22
