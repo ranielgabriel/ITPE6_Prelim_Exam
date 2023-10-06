@@ -1,5 +1,9 @@
-This is your prelim laboratory exam.
+### Name - Iron Ramos
 
-Use everything you learned (if there is) in solving this repository.
+---
 
-Goodluck!
+### Age - 21
+
+---
+
+### Mahilig mag kompyuter
