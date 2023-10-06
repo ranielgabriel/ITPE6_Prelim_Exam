@@ -1,5 +1,2 @@
-This is your prelim laboratory exam.
 
-Use everything you learned (if there is) in solving this repository.
-
-Goodluck!
+MY NAME IS JANZENT ANURAN FROM GABALDON MY AGE IS 22
