@@ -1,0 +1,18 @@
+{
+  "name": "magtalas_angelo_itpe6_prelim_exam",
+  "version": "1.0.0",
+  "description": "___",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start.js",
+    "serve": "nodemon start.js"
+  },
+  "author": "Angelo Magtalas",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
