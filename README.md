@@ -1,5 +1,3 @@
-This is your prelim laboratory exam.
+# Name: Judd Ruscon T. Curamen
 
-Use everything you learned (if there is) in solving this repository.
-
-Goodluck!
+# Course/Year/Block: BSIT 4-1

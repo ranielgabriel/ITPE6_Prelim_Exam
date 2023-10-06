@@ -1,0 +1,24 @@
+{
+  "name": "itpe6_prelim_exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruscon25/ITPE6_Prelim_Exam.git"
+  },
+  "author": "ruscon25",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruscon25/ITPE6_Prelim_Exam/issues"
+  },
+  "homepage": "https://github.com/ruscon25/ITPE6_Prelim_Exam#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
