@@ -1,5 +1,1 @@
-This is your prelim laboratory exam.
-
-Use everything you learned (if there is) in solving this repository.
-
-Goodluck!
+Hello! I am Crisjohn Paolo Vilar and I am 23 years old.
