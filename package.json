@@ -1,0 +1,26 @@
+{
+  "name": "4_1_cz_ballesteros_prelim",
+  "version": "1.0.0",
+  "description": "This is my Prelim Exam",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "node start.js",
+    "serve": "nodemon start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrueZeth/4_1_cz_ballesteros_prelim.git"
+  },
+  "author": "Crue Zeth D. Ballesteros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrueZeth/4_1_cz_ballesteros_prelim/issues"
+  },
+  "homepage": "https://github.com/CrueZeth/4_1_cz_ballesteros_prelim#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
