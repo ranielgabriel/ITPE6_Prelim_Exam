@@ -1,5 +1,5 @@
-This is your prelim laboratory exam.
+Hello I'm Carl Jasper T. Boado
 
-Use everything you learned (if there is) in solving this repository.
+Age: 21
 
-Goodluck!
+Course: BSIT 4-1
