@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+
+  },
+  "name": "itpe6_prelim_exam",
+  "description": "Name: John Denver S. Raguindin\r Age: 22\r Address: Curva Cuyapo, Nueva Ecija",
+  "version": "1.0.0",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start.js",
+    "serve": "nodemon start.js"
+
+  },
+  "author": "John Denver S. Raguindin",
+  "license": "ISC"
+}
