@@ -1,5 +1,10 @@
-This is your prelim laboratory exam.
+### Name - Jaymz Macalla    
 
-Use everything you learned (if there is) in solving this repository.
+---
 
-Goodluck!
+### Age - 23
+
+---
+
+### AHHHHHHHHHHHKKKKK
+
