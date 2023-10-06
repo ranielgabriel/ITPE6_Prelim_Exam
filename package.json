@@ -1,0 +1,18 @@
+{
+  "name": "anuran_itpe6_prelim_exam",
+  "version": "1.0.0",
+  "description": "MY NAME IS JANZENT ANURAN FROM GABALDON MY AGE IS 22",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start.js",
+    "serve": "nodemon start.js"
+  },
+  "author": "jan zent anuran",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
