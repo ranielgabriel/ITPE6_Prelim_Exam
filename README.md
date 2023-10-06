@@ -1,5 +1,7 @@
-This is your prelim laboratory exam.
+### Name - Mark Joshua Garcia
+___
+### Age - 22
+___
+### Hello!!
 
-Use everything you learned (if there is) in solving this repository.
-
-Goodluck!
+___
