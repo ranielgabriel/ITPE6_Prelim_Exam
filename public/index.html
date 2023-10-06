@@ -1,9 +1,77 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Hello World</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <style>
+        /* CSS for styling the navbar */
+        .navbar {
+            background-color: #333;
+            overflow: hidden;
+        }
+
+        .navbar a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        /* Style for the login form and table */
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+    </style>
 </head>
 <body>
-    <h1>Hello World</h1>
+    <div class="navbar">
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+    </div>
+
+    <h1>Login</h1>
+    <form action="login.php" method="POST">
+        <!-- Input fields for username and password as before -->
+
+        <div>
+            <input type="submit" value="Login">
+        </div>
+    </form>
+    <div>
+        <p>Don't have an account?</p>
+        <button onclick="window.location.href='register.php'">Register</button>
+    </div>
+
+    <!-- Adding a table -->
+    <h2>User Data Table</h2>
+    <table>
+        <tr>
+            <th>Username</th>
+            <th>Email</th>
+            <th>Role</th>
+        </tr>
+        <tr>
+            <td>user1</td>
+            <td>user1@example.com</td>
+            <td>User</td>
+        </tr>
+        <tr>
+            <td>admin1</td>
+            <td>admin1@example.com</td>
+            <td>Admin</td>
+        </tr>
+        <!-- Add more rows as needed -->
+    </table>
 </body>
 </html>
