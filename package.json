@@ -1,0 +1,19 @@
+{
+  "name": "itpe6_prelim_exam",
+  "version": "1.0.0",
+  "description": "nodejs file",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paolo8218/ITPE6_Prelim_Exam.git"
+  },
+  "author": "Paolo Vilar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paolo8218/ITPE6_Prelim_Exam/issues"
+  },
+  "homepage": "https://github.com/Paolo8218/ITPE6_Prelim_Exam#readme"
+}
