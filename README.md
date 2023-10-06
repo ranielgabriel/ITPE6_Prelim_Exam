@@ -1,5 +1,8 @@
-This is your prelim laboratory exam.
+### Angelo Magtalas
+___
 
-Use everything you learned (if there is) in solving this repository.
+### 16
+___
 
-Goodluck!
+### funny and Friendly
+___
