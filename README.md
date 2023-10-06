@@ -1,5 +1,9 @@
-This is your prelim laboratory exam.
+Name: Johnzel Erick W. Bulanadi
 
-Use everything you learned (if there is) in solving this repository.
+---
 
-Goodluck!
+Age: 21
+
+---
+
+This is my Prelim Exam
